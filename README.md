@@ -3,7 +3,7 @@
 :round_pushpin: Санкт-Петербург или удаленно
 ## Junior Data Scientist
 Познакомилась с Data в обработке сигналов: работая в лабораториях с ЭКГ и МРТ, поняла, что аналитика – моя сфера.\
-\
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/maria-luchkova-375ba9269/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
