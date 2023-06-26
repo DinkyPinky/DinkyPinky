@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
   </a>
   <a href="https://www.kaggle.com/marialuchkova">
-    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="CV"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="CV"/>
   </a>
 </div>
 
