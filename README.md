@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/maria-luchkova-375ba9269/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/14qnbUN_H3KPAXxsrhkDwZptHDq1i6WCQ/view?pli=1">
+  <a href="https://drive.google.com/file/d/1YXkhyRmSoypKul6syGy-ZKGEO8GhlwSJ/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
   <a href="https://t.me/swaymedolce">
