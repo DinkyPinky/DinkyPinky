@@ -1,7 +1,7 @@
 # Мария Лучкова
-:briefcase: Активно ищу работу\
-:round_pushpin: Санкт-Петербург или удаленно
-## Junior Data Scientist
+:briefcase: Буше\
+:round_pushpin: Санкт-Петербург
+## Junior Business Analyst
 Познакомилась с Data в обработке сигналов: работая в лабораториях с ЭКГ и МРТ, поняла, что аналитика – моя сфера.
 <br/><br/>
 <div id="badges">
