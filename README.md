@@ -47,9 +47,9 @@
 
 <div>
     <a href="https://www.youtube.com/watch?v=uhYrrlp-vsc&ab_channel=Мария">
-    <img src=pics/p1.PNG?raw=true "Title" width="400" height="280"/>
+    <img src=pics/p1.PNG?raw=true "Title" width="450" height="350"/>
   </a>
     <a href="https://www.youtube.com/watch?v=0WXm8i62Hm0&ab_channel=Мария">
-    <img src=pics/p2.PNG?raw=true "Title" width="400" height="280"/>
+    <img src=pics/p2.PNG?raw=true "Title" width="450" height="350"/>
   </a>
 </div>
