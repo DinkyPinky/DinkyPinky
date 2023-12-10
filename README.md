@@ -45,4 +45,6 @@
 |[Оценка популярности игр](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/games-rating-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
 |[Определение рыночной стоимости квартир](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
 
-![[Data Science от Яндекс Практикум. Стоит платить?](https://www.youtube.com/watch?v=uhYrrlp-vsc&ab_channel=Мария)](pics/p1.PNG?raw=true "Title")
+[Data Science от Яндекс Практикум. Стоит платить?](https://www.youtube.com/watch?v=uhYrrlp-vsc&ab_channel=Мария)  
+
+![](pics/p1.PNG?raw=true "Title")
