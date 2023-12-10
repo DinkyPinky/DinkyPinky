@@ -49,5 +49,7 @@
     <a href="https://www.youtube.com/watch?v=uhYrrlp-vsc&ab_channel=Мария">
     <img src=pics/p1.PNG?raw=true "Title"/>
   </a>
-[Обзор курса Я.Практикума](https://www.youtube.com/watch?v=uhYrrlp-vsc&ab_channel=Мария)  
-![](pics/p1.PNG?raw=true "Title")
+    <a href="https://www.youtube.com/watch?v=0WXm8i62Hm0&ab_channel=Мария">
+    <img src=pics/p2.PNG?raw=true "Title"/>
+  </a>
+</div>
